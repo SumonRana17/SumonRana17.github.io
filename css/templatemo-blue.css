@@ -165,7 +165,7 @@ header hr {
 /* skills section */
 .skills {
   background: #3366CC;
-  color: #080000;
+  color: #ffffff;
 }
 .skills .progress {
   border-radius: 0px;
@@ -183,7 +183,7 @@ header hr {
 /* education section */
 .education {
   background: #3366CC;
-  color: #080000;
+  color: #ffffff;
 }
 .education .education-content {
   padding-bottom: 14px;
@@ -220,7 +220,7 @@ header hr {
 /* experience section */
 .experience {
   background: #3366CC;
-  color: #080000;
+  color: #ffffff;
 }
 .experience .experience-content {
   padding-bottom: 14px;
